@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 8000,
+      "id": 1,
+      "title": "Llantas Volkswagen Scirocco Negra Mate Rodado 15",
+      "image": "./img/Scirocco.jpg"
+    },
+    {
+      "precio": 12000,
+      "id": 2,
+      "title": "Llanta Volkswgen Bora Negra Mate Rodado 17",
+      "image": "./img/Bora.jpg"
+    },
+    {
+      "precio": 4000,
+      "id": 3,
+      "title": "Llantas Volkswgen Fox Rodado 16",
+      "image": "./img/Fox.jpg"
+    },
+    {
+      "precio": 10000,
+      "id": 4,
+      "title": "Llanta Peugeot 208 Negra Rodado 17",
+      "image": "./img/208.jpg"
+    },
+    {
+      "precio": 8500,
+      "id": 5,
+      "title": "Llantas Citroen C4 Lounge Rodado 17",
+      "image": "./img/C4.jpg"
+    },
+    {
+      "precio": 9500,
+      "id": 6,
+      "title": "Llanta Peugeot 308 Rodado 17",
+      "image": "./img/308.jpg"
+    }
+  ]
